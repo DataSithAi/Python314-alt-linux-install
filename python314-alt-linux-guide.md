@@ -1,4 +1,4 @@
-# 🐍 Установка Python 3.14.0 в ALT Linux
+# 🐍 Установка Python 3.14.3 в ALT Linux
 
 ![Python Version](https://img.shields.io/badge/Python-3.14.0-blue?style=for-the-badge&logo=python&logoColor=white)
 ![ALT Linux](https://img.shields.io/badge/ALT_Linux-11.1-red?style=for-the-badge&logo=linux&logoColor=white)
