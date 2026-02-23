@@ -8,14 +8,14 @@
 #     print(f"🐍 Python {sys.version}")
 #     print(f"📍 Платформа: {platform.platform()}")
 #     print(f"💻 Архитектура: {platform.machine()}")
-#     print(f"✨ Python 3.14.0 готов к работе!")
+#     print(f"✨ Python 3.14.3 готов к работе!")
 
 
 # if __name__ == "__main__":
 #     main()
 
 
-"""Тест Python 3.14.0"""
+"""Тест Python 3.14.3"""
 
 import sys
 import platform
@@ -31,7 +31,7 @@ def main():
     print(f"Архитектура:      {platform.machine()}")
     print(f"Префикс venv:     {sys.prefix}")
     print("=" * 60)
-    print("✨ Python 3.14.0 в виртуальном окружении работает!")
+    print("✨ Python 3.14.3 в виртуальном окружении работает!")
     print("=" * 60)
 
 
